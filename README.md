@@ -1,6 +1,7 @@
 # ellipsis-first
 
-# ellipsis-coming
+# ellipsis-coming: just a single page for under construction. Designed with Nicepage 
 # coming-soon
+
 
 
